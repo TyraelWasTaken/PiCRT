@@ -1,4 +1,6 @@
-A CRT style Pi enclosure for a 7 inch display
+#A CRT style Pi enclosure for a 7 inch display
+
+![](https://raw.githubusercontent.com/TyraelWasTaken/PiCRT/main/images/thumbnail.PNG)
 
 Inspired by this repo: https://github.com/sb-ocr/pi-terminal
 
